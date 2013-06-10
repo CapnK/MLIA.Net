@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Numl_quickstart", "Numl_quickstart\Numl_quickstart.csproj", "{A0FA0D5C-A8DB-4D4A-8CF2-FD9C89652386}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.1_kNearestNeighbours", "2.1_kNearestNeighbours\2.1_kNearestNeighbours.csproj", "{40FDDC9D-ECC8-4C36-BFD4-519B22E4288C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -13,6 +15,10 @@ Global
 		{A0FA0D5C-A8DB-4D4A-8CF2-FD9C89652386}.Debug|x86.Build.0 = Debug|x86
 		{A0FA0D5C-A8DB-4D4A-8CF2-FD9C89652386}.Release|x86.ActiveCfg = Release|x86
 		{A0FA0D5C-A8DB-4D4A-8CF2-FD9C89652386}.Release|x86.Build.0 = Release|x86
+		{40FDDC9D-ECC8-4C36-BFD4-519B22E4288C}.Debug|x86.ActiveCfg = Debug|x86
+		{40FDDC9D-ECC8-4C36-BFD4-519B22E4288C}.Debug|x86.Build.0 = Debug|x86
+		{40FDDC9D-ECC8-4C36-BFD4-519B22E4288C}.Release|x86.ActiveCfg = Release|x86
+		{40FDDC9D-ECC8-4C36-BFD4-519B22E4288C}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
